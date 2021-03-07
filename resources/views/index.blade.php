@@ -41,7 +41,7 @@
           <h1 class="display-4">Stop worrying about your blood pressure!</h1>
           <p class="lead">We can worry for you.</p>
           <hr class="my-4">
-          <p>MonitorMe’s intiative is to make blood pressure reading easily interpertable! We want to provide you an easy way to understand those numbers that the blood pressure monitor spits out at you. All you have to do is check your blood pressure, input your numbers, and click enter! We will tell you weather your blood pressure is low, normal, or high. Have no fear, MonitorMe is here!</p>
+          <p>MonitorMe’s intiative is to make blood pressure reading easily interpretable! We want to provide you an easy way to understand those numbers that the blood pressure monitor spits out at you. All you have to do is check your blood pressure, input your numbers, and click enter! We will tell you weather your blood pressure is low, normal, or high. Have no fear, MonitorMe is here!</p>
           <a class="btn btn-light btn-lg" href="/register" role="button">Get Started</a>
         </div>
 
