@@ -111,9 +111,9 @@
           pulseList.push(reading['pulse']);
         }
 
-        if (sysList[6] > 130) {
+        if (sysList[0] > 130) {
           document.getElementById('high_bp').hidden = false;
-        } else if (sysList[6]<90) {
+        } else if (sysList[0]<90) {
           document.getElementById('low_bp').hidden = false;
         } else {
           document.getElementById('good_bp').hidden = false;
